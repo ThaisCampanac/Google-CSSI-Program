@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DepthFilter
+comment0.text=\n\ DepthFilter\ implements\ Filter\ and\ checks\ the\ depth\ of\ the\ earthquake\n\ data\n\ \n\ @author\ Thais\ Campanac\n
+comment1.params=min\ max
+comment1.target=DepthFilter(double,\ double)
+comment2.params=qe
+comment2.target=boolean\ satisfies(QuakeEntry)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

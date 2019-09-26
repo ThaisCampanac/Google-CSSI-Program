@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DistanceFilter
+comment0.text=\n\ DistanceFilter\ implement\ Filter\ and\ checks\ the\ distance\ of\ a\ given\ location\n\ is\ less\ then\ the\ specified\ maximum\ distance\n\ \n\ @author\ Thais\ Campanac\ \n
+comment1.params=loc\ dis
+comment1.target=DistanceFilter(Location,\ double)
+comment2.params=qe
+comment2.target=boolean\ satisfies(QuakeEntry)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

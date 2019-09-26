@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Filter
+comment0.text=\n\ Filter\ is\ an\ interface\ class\ that\ has\ two\ functions\ called\ satisfies\ and\ get\n\ name\n\ \n\ @author\ Thais\ Campanac-Climent\ \n\ @version\ June\n
+comment1.params=qe
+comment1.target=boolean\ satisfies(QuakeEntry)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+numComments=3

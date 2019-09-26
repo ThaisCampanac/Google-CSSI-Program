@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MagnitudeFilter
+comment0.text=\n\ MagnitudeFilter\ implements\ Filter\ and\ it\ checks\ the\ mag\ of\ the\ earthquake\n\ data\n\ \n\ @author\ Thais\ Campanac\ \n
+comment1.params=min\ mag
+comment1.target=MagnitudeFilter(double,\ double)
+comment2.params=qe
+comment2.target=boolean\ satisfies(QuakeEntry)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4
