@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LargestQuake
+comment0.text=\n\ It\ is\ a\ class\ that\ has\ methods\ to\ determine\ the\ N\ biggest\ earthquakes,\ those\n\ with\ largest\ magnitude\n\ \n\ @author\ Thais\ Campanac\n\ @version\ June\ 2019\n
+comment1.params=
+comment1.target=void\ findLargestQuake()
+comment2.params=data
+comment2.target=int\ indexOfLargest(java.util.ArrayList)
+comment3.params=quakeData\ howmany
+comment3.target=java.util.ArrayList\ getLargest(java.util.ArrayList,\ int)
+numComments=4
